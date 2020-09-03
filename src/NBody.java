@@ -59,6 +59,12 @@ public class NBody {
 
 		return bodies;
 	}
+
+	/**
+	 *
+	 * @param args
+	 * @throws FileNotFoundException if file fname cannot be opened
+	 */
 	public static void main(String[] args) throws FileNotFoundException{
 		double totalTime = 39447000.0;
 		double dt = 25000.0;
