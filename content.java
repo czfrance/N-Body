@@ -1,5 +1,5 @@
-public class Cstevn {
+public class Cgldtd {
     public static void main() {
-        System.out.println("yonoq");
+        System.out.println("kafxf");
     }
 }
