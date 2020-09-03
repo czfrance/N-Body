@@ -1,5 +1,5 @@
-public class Cidyfp {
+public class Cstevn {
     public static void main() {
-        System.out.println("qubkf");
+        System.out.println("yonoq");
     }
 }
