@@ -1,5 +1,5 @@
-public class Crviuo {
+public class Ckhfxl {
     public static void main() {
-        System.out.println("tuoca");
+        System.out.println("evevb");
     }
 }
