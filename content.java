@@ -1,5 +1,5 @@
-public class Chctru {
+public class Cgceys {
     public static void main() {
-        System.out.println("khpje");
+        System.out.println("eyuse");
     }
 }
