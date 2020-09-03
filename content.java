@@ -1,5 +1,5 @@
-public class Cgceys {
+public class Ctmmgc {
     public static void main() {
-        System.out.println("eyuse");
+        System.out.println("xlosu");
     }
 }
